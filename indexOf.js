@@ -8,4 +8,6 @@ function indexOfIgnoreCase(s1, s2) {
     return s1Lower.indexOf(s2Lower);
   }
   console.log((indexOfIgnoreCase('bit','IT')));
+
+  
   
